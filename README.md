@@ -1,2 +1,2 @@
-# C-digos-importantes
+# Codigos-importantes
 en este repositorio descargo algunos notebooks que puedo requerir en el futuro
